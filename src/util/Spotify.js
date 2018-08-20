@@ -1,6 +1,6 @@
 let accessToken = '';
 const clientID = '4e3184b97e664111b6afe7649f560c4b';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'https://shiina-ringo.surge.sh/';
 
 const Spotify = {
   getAccessToken() {
